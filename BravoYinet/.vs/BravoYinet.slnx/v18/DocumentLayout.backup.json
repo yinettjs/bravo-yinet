@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\service\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\service\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\views\\home\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\views\\home\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\views\\home\\explorar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\views\\home\\explorar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\bravoyinet\\bravoyinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C19744-83C4-46BF-BF8A-643E759E0D16}|BravoYinet\\BravoYinet.csproj|solutionrelative:bravoyinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BravoYinet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BravoYinet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T22:51:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "BravoYinet\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Models\\Producto.cs",
+              "RelativeToolTip": "BravoYinet\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:37:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BravoYinet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BravoYinet\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:45:19.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Program.cs",
+              "RelativeDocumentMoniker": "BravoYinet\\Program.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Program.cs",
+              "RelativeToolTip": "BravoYinet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:55:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarritoService.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Service\\CarritoService.cs",
+              "RelativeDocumentMoniker": "BravoYinet\\Service\\CarritoService.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Service\\CarritoService.cs",
+              "RelativeToolTip": "BravoYinet\\Service\\CarritoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:59:07.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BravoYinet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BravoYinet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T23:11:00.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Home\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "BravoYinet\\Views\\Home\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Home\\Carrito.cshtml",
+              "RelativeToolTip": "BravoYinet\\Views\\Home\\Carrito.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T22:54:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Explorar.cshtml",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Home\\Explorar.cshtml",
+              "RelativeDocumentMoniker": "BravoYinet\\Views\\Home\\Explorar.cshtml",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\BravoYinet\\BravoYinet\\Views\\Home\\Explorar.cshtml",
+              "RelativeToolTip": "BravoYinet\\Views\\Home\\Explorar.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T22:52:42.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

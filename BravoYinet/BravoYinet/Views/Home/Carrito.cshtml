@@ -1,0 +1,58 @@
+﻿@model IEnumerable<BravoYinet.Models.Producto>
+
+<div class="container mt-5">
+    <h2 class="text-secondary">Tu Carrito</h2>
+
+    @if (!Model.Any())
+    {
+        <p class="text-muted">Tu carrito está vacío.</p>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Producto</th>
+                    <th>Precio</th>
+                    <th>Imagen</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.Nombre</td>
+                        <td>RD$@p.Precio</td>
+                        <td><img src="~/images/@p.Imagen" width="60" /></td>
+                        <td>
+                            <form asp-action="Eliminar" method="post">
+                                <input type="hidden" name="id" value="@p.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h4 class="text-end text-success">Total: RD$@Model.Sum(x => x.Precio)</h4>
+
+        <!-- Botones de navegación -->
+        <div class="text-center mt-4">
+            <a asp-action="Explorar" class="btn btn-secondary btn-lg">🔄 Seguir explorando</a>
+
+            <form asp-action="Pagar" method="post" class="d-inline">
+                <button type="submit" class="btn btn-primary btn-lg">💳 Pagar</button>
+            </form>
+        </div>
+    }
+
+    @if (ViewBag.Mensaje != null)
+    {
+        <div class="alert alert-success mt-3 text-center">
+            @ViewBag.Mensaje
+        </div>
+    }
+</div>
+

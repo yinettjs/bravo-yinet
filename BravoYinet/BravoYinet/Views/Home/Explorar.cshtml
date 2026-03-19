@@ -1,0 +1,30 @@
+﻿@model IEnumerable<BravoYinet.Models.Producto>
+
+<div class="container mt-5">
+    <h2 class="text-secondary">Explorar Productos</h2>
+    <div class="row">
+        @foreach (var p in Model)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card shadow-sm">
+                    <img src="~/images/@p.Imagen" class="card-img-top" alt="@p.Nombre" />
+                    <div class="card-body">
+                        <h5 class="card-title">@p.Nombre</h5>
+                        <p class="card-text">Precio: RD$@p.Precio</p>
+                        <!-- Botón para agregar sin salir de la página -->
+                        <form asp-action="Agregar" method="post">
+                            <input type="hidden" name="id" value="@p.Id" />
+                            <button type="submit" class="btn btn-success">Agregar al carrito</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <!-- Botones de navegación -->
+    <div class="text-center mt-4">
+        <a asp-action="Carrito" class="btn btn-warning btn-lg">🛍️ Ver Carrito</a>
+        <a asp-action="Explorar" class="btn btn-secondary btn-lg">🔄 Seguir explorando</a>
+    </div>
+</div>

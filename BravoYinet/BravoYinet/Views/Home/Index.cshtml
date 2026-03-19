@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Bravo - Inicio";
+}
+
+<div class="container text-center mt-5">
+    <div class="d-flex justify-content-center align-items-center mb-3">
+        <h1 style="color:#E53935;" class="fw-bold me-3">
+            Bienvenido al supermercado Bravo
+        </h1>
+        <img src="~/images/logo.png" alt="Bravo Logo" style="height:70px;" />
+    </div>
+
+    <p class="lead">Tu supermercado inmersivo desde casa</p>
+
+    <div class="d-flex justify-content-center gap-3 mt-4">
+        <a asp-action="Explorar" class="btn btn-success btn-lg">🛒 Explorar Pasillos</a>
+        <a asp-action="Carrito" class="btn btn-warning btn-lg">🛍️ Ver Carrito</a>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row text-center">
+        <!-- Oferta Plátanos -->
+        <div class="col-md-4">
+            <img src="~/images/chocolate.jpg" class="img-fluid rounded mb-3" alt="¡Nada como un buen chocolate caliente para alegrar el día! ☕️🍫" style="max-height:350px;">
+            <h5></h5>
+            <p></p>
+        </div>
+
+        <!-- Oferta Carne -->
+        <div class="col-md-4">
+            <img src="~/images/ahorra.jpg" class="img-fluid rounded mb-3" alt="Compra inteligente y ahorra más con BravoVa" style="max-height:350px;">
+            <h5></h5>
+            <p></p>
+        </div>
+
+        <!-- Oferta Leche -->
+        <div class="col-md-4">
+            <img src="~/images/pistacho.png" class="img-fluid rounded mb-3" alt="Pequeños en tamaño, grandes en sabor 💚" style="max-height:350px;">
+            <h5></h5>
+            <p></p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
