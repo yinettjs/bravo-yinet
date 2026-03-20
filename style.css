@@ -1,0 +1,100 @@
+body {
+  background: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #333;
+}
+
+/* Barra superior con logo */
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: #ffffff;
+}
+
+.logo {
+  width: 120px;
+}
+
+/* Menú */
+nav {
+  background: #e74c3c;
+  padding: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Banner debajo del menú */
+.banner {
+  width: 100%;   /* más pequeño */
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+}
+
+/* Secciones */
+section {
+  padding: 2em;
+}
+
+h2 {
+  color: #e74c3c;
+}
+
+/* Productos */
+.producto {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+.producto img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Botones */
+button {
+  background: #2c3e50;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #34495e;
+}
+
+.item-carrito {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  background: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin: 10px auto;
+}
